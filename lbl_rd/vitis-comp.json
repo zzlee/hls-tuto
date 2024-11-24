@@ -1,0 +1,12 @@
+{
+  "name": "lbl_rd",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "lbl_rd"
+  },
+  "template": "empty_hls_component"
+}
