@@ -1,0 +1,12 @@
+{
+  "name": "pcie_intr",
+  "type": "HLS",
+  "configuration": {
+    "componentType": "HLS",
+    "configFiles": [
+      "hls_config.cfg"
+    ],
+    "work_dir": "pcie_intr"
+  },
+  "template": "empty_hls_component"
+}
